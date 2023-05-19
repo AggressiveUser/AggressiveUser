@@ -23,7 +23,7 @@
 [![HackTheBox Badge](https://www.hackthebox.eu/badge/image/17569)](https://www.hackthebox.eu/profile/17569)
 
 ## 💻 Projects
-### 🦁 SIMBBA - The AI ChatBOT 🤖
+### 🦁 SIMBBA - The AI ChatBOT 🤖 [DEAD - OFFLINE]
 Looking for a simple and effective way to bypass content filtering in ChatGPT? Look no further than our easy-to-use script!
 
 **🚀 Features**
