@@ -1,6 +1,6 @@
 # Hello, I'm AggressiveUser 👋
 <p align="left">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4a5382e0-3e5f-4759-be8a-ef1a069dfc0c/df3vfxf-4005413c-a864-46b7-a938-accc6d57b5fa.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRhNTM4MmUwLTNlNWYtNDc1OS1iZThhLWVmMWEwNjlkZmMwY1wvZGYzdmZ4Zi00MDA1NDEzYy1hODY0LTQ2YjctYTkzOC1hY2NjNmQ1N2I1ZmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9iAoQJn4ySJ1z-AtOH0lPklEeB2hvBbdBZAw9ORmJsg" alt="AggressiveUser" width=320 height=150>
+  <img src="https://raw.githubusercontent.com/AggressiveUser/AggressiveUser/main/happy.gif" alt="AggressiveUser" width=320 height=150>
 </p>
 
 ## 👨🏻‍💻 About Me
