@@ -5,13 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 
-🗿 I'm an enthusiastic cybersecurity professional with expertise in Bash scripting, and I'm eager to leverage my knowledge and skills to their fullest potential.
-
-🗿 I'm now studying offensive security for the OSCP while simultaneously getting ready for the CRTP.
-
-🗿 I'm now creating a gizmo for myself that will assist me in counting.
-
-🗿 Because I am too slow to write articles, you can get late updates on me at AggressiveUser.github.io.
+🗿 Too "LAZY" to complete this.
 
 🗿 Where to find me AggressiveUser@OutLook.com
 
