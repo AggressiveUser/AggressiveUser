@@ -26,8 +26,7 @@ A Python script that allows bug bounty hunters and security researchers to colle
 **🚀 Features**
 - The script leverages the GitHub repositories which containing Nuclei Templates. It will clones them to your local machine, and extracts the templates, organizing them for easy access.
 - Once the script completes, you'll find a folder named ```Templates``` in the repository's root directory. Inside this folder, you'll find subfolders for each cloned repository, containing the Nuclei tool YAML templates. Each template is stored as a separate file, enabling easy access and utilization for your bug bounty or security testing activities.
-
-
+- 
 </details>
 
 
@@ -49,15 +48,23 @@ Looking for a simple and effective way to bypass content filtering in ChatGPT? L
 #### 💀 Soon more projects will Come 💀
 
 ## 📝 Publications
-### CVE LIST 🎯
+
+<details>
+<summary>CVE LIST 🎯</summary>
 
 1.  [CVE-2022-1163](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-1163): 
 2. Will Add More Too LAZY To Complete This
 
-### Hall Of Fame
+</details>
+
+<details>
+<summary>Hall Of Fame</summary>
+  
 1.  [Apple](https://support.apple.com/en-in/HT201536) - AggressiveUser
 2. Will Add More Too LAZY To Complete This
- 
+
+</details>
+
 ## 📜 Certifications
 - [eWPTxV2](https://verified.elearnsecurity.com/certificates/f4aa3ea5-1bf2-4cf6-b6e3-376a4b52c61c): eLearnSecurity 
 - Will Add More Too LAZY To Complete This
