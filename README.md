@@ -17,7 +17,9 @@
 [![HackTheBox Badge](https://www.hackthebox.eu/badge/image/17569)](https://www.hackthebox.eu/profile/17569)
 
 ## 💻 Projects
-### 🦁 SIMBBA - The AI ChatBOT 🤖 [DEAD - OFFLINE]
+
+<details>
+<summary> 🦁 SIMBBA - The AI ChatBOT 🤖 [DEAD - OFFLINE]</summary>
 Looking for a simple and effective way to bypass content filtering in ChatGPT? Look no further than our easy-to-use script!
 
 **🚀 Features**
@@ -26,6 +28,7 @@ Looking for a simple and effective way to bypass content filtering in ChatGPT? L
 - Simple and easy-to-use script that can be run with just a few commands.
 - Lightweight and fast, with minimal impact on system resources.
 - Compatible with a wide range of systems and configurations.
+</details>
 
 ### 💀 Soon more projects will Come 💀
 
