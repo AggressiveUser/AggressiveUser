@@ -19,6 +19,25 @@
 ## 💻 Projects
 
 <details>
+<summary> 📱 NOXER - Nox Emulator Power Tool <img src="https://sergoot.ru/wp-content/uploads/2021/10/Nox-App-Player-nastrojki.png" alt="Nox Logo" width="20"/></summary>
+  
+Automate your Android penetration testing lab setup using Nox Emulator.
+
+**🚀 Features**
+- Automate Lab Setup: Easily configure your Android penetration testing environment.
+- Stable ADB Connections: Ensure consistent and reliable ADB connections.
+- Frida Server Management: Quickly install and launch Frida Server on the Nox Emulator.
+- Ad and Bloatware Removal: Automatically remove ads and unwanted apps from the Nox Emulator.
+- User-Friendly CLI: Intuitive interface for managing your testing lab.
+- BurpSuite Integration: Seamlessly install and configure BurpSuite certificates.
+- Windows Tools Management: Install or verify essential pentesting tools (Frida, Objection, reFlutter) on Windows.
+- Frida-Tool Options: Various functionalities like listing apps, bypassing SSL pinning, and root checks.
+- Flexible Menu: Interactive options for running Frida Server, opening an ADB shell, and more.
+
+</details>
+
+
+<details>
 <summary>🐍 AllForOne - Nuclei Template Collector 👤 </summary>
   
 A Python script that allows bug bounty hunters and security researchers to collect all Nuclei YAML templates from various public repositories, helping to streamline the process of downloading multiple templates using just a single repository
@@ -44,6 +63,7 @@ Looking for a simple and effective way to bypass content filtering in ChatGPT? L
 - Compatible with a wide range of systems and configurations.
 
 </details>
+
 
 
 #### 💀 Soon more projects will Come 💀
@@ -77,7 +97,7 @@ Looking for a simple and effective way to bypass content filtering in ChatGPT? L
 </details>
 
 <details>
-<summary>Hall Of Fame</summary>
+<summary>Hall Of Fame 🥂</summary>
   
 1. [Apple](https://support.apple.com/en-in/HT201536) - 2023 
 2. [Microsoft](https://msrc.microsoft.com/update-guide/acknowledgement) - 2023 
