@@ -51,7 +51,7 @@ Looking for a simple and effective way to bypass content filtering in ChatGPT? L
 ## 📝 Publications
 
 <details>
-<summary>CVE Publication List 🎯</summary>
+<summary>CVE List 🎯</summary>
 
 1.  [CVE-2022-1163](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-1163)
 2.  [CVE-2022-1588](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-1588)
@@ -64,6 +64,19 @@ Looking for a simple and effective way to bypass content filtering in ChatGPT? L
 </details>
 
 <details>
+<summary>Exploit-DB List ☣️</summary>
+
+1.  Contao 4.13.2 - Cross-Site Scripting (XSS)
+2.  qdPM 9.2 - Cross-site Request Forgery (CSRF)
+3.  minewebcms 1.15.2 - Cross-site Scripting (XSS)
+4.  part-db 0.5.11 - Remote Code Execution (RCE)
+5.  Microweber 1.2.11 - Remote Code Execution (RCE) (Authenticated)
+
+- Exploit-DB Author [Profile](https://www.exploit-db.com/?author=11588) 
+
+</details>
+
+<details>
 <summary>Hall Of Fame</summary>
   
 1. [Apple](https://support.apple.com/en-in/HT201536) - 2023 
@@ -71,8 +84,7 @@ Looking for a simple and effective way to bypass content filtering in ChatGPT? L
 3. [Philips ](https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html#slide_#) - 2023 
 4. [RedHat](https://access.redhat.com/articles/66234) - 2024
 5. [NVIDIA](https://www.nvidia.com/en-in/product-security/acknowledgements/) - 2023
-6. 
-7. Will Add More Too LAZY To Complete This
+6. Will Add More Too LAZY To Complete This
 
 </details>
 
