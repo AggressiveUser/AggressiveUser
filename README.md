@@ -51,23 +51,35 @@ Looking for a simple and effective way to bypass content filtering in ChatGPT? L
 ## 📝 Publications
 
 <details>
-<summary>CVE LIST 🎯</summary>
+<summary>CVE Publication List 🎯</summary>
 
-1.  [CVE-2022-1163](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-1163): 
-2. Will Add More Too LAZY To Complete This
+1.  [CVE-2022-1163](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-1163)
+2.  [CVE-2022-1588](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-1588)
+3.  [CVE-2022-24899](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-24899)
+4.  [CVE-2022-1530](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-1530)
+5.  [CVE-2022-26180](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-26180)
+6.  [CVE-2022-0557](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-0557)
+7. Will Add More Too LAZY To Complete This
 
 </details>
 
 <details>
 <summary>Hall Of Fame</summary>
   
-1.  [Apple](https://support.apple.com/en-in/HT201536) - AggressiveUser
-2. Will Add More Too LAZY To Complete This
+1. [Apple](https://support.apple.com/en-in/HT201536) - 2023 
+2. [Microsoft](https://msrc.microsoft.com/update-guide/acknowledgement) - 2023 
+3. [Philips ](https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html#slide_#) - 2023 
+4. [RedHat](https://access.redhat.com/articles/66234) - 2024
+5. [NVIDIA](https://www.nvidia.com/en-in/product-security/acknowledgements/) - 2023
+6. 
+7. Will Add More Too LAZY To Complete This
 
 </details>
 
 ## 📜 Certifications
-- [eWPTxV2](https://verified.elearnsecurity.com/certificates/f4aa3ea5-1bf2-4cf6-b6e3-376a4b52c61c): eLearnSecurity 
+- [eWPTxV2](https://www.credential.net/profile/aggressiveuser/wallet): eLearnSecurity
+- [CRTE](https://www.credential.net/profile/aggressiveuser/wallet): Altered Security
+- [OSCP](https://www.credential.net/profile/aggressiveuser/wallet): Offensive Security 
 - Will Add More Too LAZY To Complete This
 
 
