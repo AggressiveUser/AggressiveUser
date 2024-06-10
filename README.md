@@ -92,7 +92,7 @@ Looking for a simple and effective way to bypass content filtering in ChatGPT? L
 4.  part-db 0.5.11 - Remote Code Execution (RCE)
 5.  Microweber 1.2.11 - Remote Code Execution (RCE) (Authenticated)
 
-- Exploit-DB Author [Profile](https://www.exploit-db.com/?author=11588) 
+- My Exploit-DB Author [Profile](https://www.exploit-db.com/?author=11588) 
 
 </details>
 
