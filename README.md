@@ -23,6 +23,8 @@
   
 SpoofProof is a Burp Suite extension designed to help security professionals verify email domain spoofing vulnerabilities and validate DNS-based email security configurations like DMARC, SPF, and DKIM. With SpoofProof, users can efficiently assess if a domain is secure against email spoofing attacks, providing a streamlined and reliable approach to domain spoofing validation.
 
+**PortSwigger.Net BApp Store URL:** [SpoofProof](https://portswigger.net/bappstore/a321360c6e114b3dab6f2c67d68c241a)
+
 **🚀 Features**
 - 🔍 Domain Spoofability Check: Evaluate if a domain can be spoofed and take necessary precautions.
 - 🛡️ DMARC Validation: Ensure the domain’s DMARC records are configured correctly to minimize email spoofing risks.
