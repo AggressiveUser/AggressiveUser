@@ -19,6 +19,19 @@
 ## 💻 Projects
 
 <details>
+<summary>🛡️ SpoofProof - Domain Spoofing Validation</summary>
+  
+SpoofProof is a Burp Suite extension designed to help security professionals verify email domain spoofing vulnerabilities and validate DNS-based email security configurations like DMARC, SPF, and DKIM. With SpoofProof, users can efficiently assess if a domain is secure against email spoofing attacks, providing a streamlined and reliable approach to domain spoofing validation.
+
+**🚀 Features**
+- 🔍 Domain Spoofability Check: Evaluate if a domain can be spoofed and take necessary precautions.
+- 🛡️ DMARC Validation: Ensure the domain’s DMARC records are configured correctly to minimize email spoofing risks.
+- ✅ SPF Verification: Check SPF records for proper configuration, enhancing email sender verification.
+- 🔒 DKIM Validation: Confirm that DKIM records are correctly set up to authenticate email messages.
+- 🔗 Easy Integration with Burp Suite: Seamlessly integrates within Burp Suite to complement your existing security testing toolkit.
+</details>
+
+<details>
 <summary> 📱 NOXER - Nox Emulator Power Tool <img src="https://sergoot.ru/wp-content/uploads/2021/10/Nox-App-Player-nastrojki.png" alt="Nox Logo" width="20"/></summary>
   
 Automate your Android penetration testing lab setup using Nox Emulator.
@@ -35,6 +48,7 @@ Automate your Android penetration testing lab setup using Nox Emulator.
 - Flexible Menu: Interactive options for running Frida Server, opening an ADB shell, and more.
 
 </details>
+
 
 
 <details>
